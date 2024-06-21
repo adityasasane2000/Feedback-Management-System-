@@ -1,4 +1,4 @@
-# Feedback-System
+# Feedback-Management-System
 - Developed a comprehensive feedback management system using HTML, CSS, JavaScript, PHP, and MySQL to capture, store, and analyze user feedback effectively
 - Designed and implemented responsive front-end interfaces with HTML and CSS, ensuring a user-friendly experience across various devices and screen sizes.
 - Utilized JavaScript for dynamic content updates and client-side validation enhancing the interactivity and functionality of the feedback submission process.
